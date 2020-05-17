@@ -1,3 +1,19 @@
+15.05.2020
+* FFSaar Tunnelbeschreibung korrigiert
+
+18.08.2019
+* An den Ebenen gearbeitet:
+    - fusioniert (Hintergründe zu Hintergründen, beispielsweise die Himmel zusammengelegt oder Datum und Quellenangabe), Ziel war es auch die für mich unübersichtliche Anzahl zu reduzieren.
+    - umbenannt (h: Hintergrund, tb: business Text (Sie), tp: privater Text (Du), c: Community, usw) um die Lesbarkeit in der Drop-Down-Liste zuerhöhen
+    - Farben harmonisiert (grau sind Hintergründe, grün business, blau privat, rot Graphiken, gelb Communities)
+    - Saar.Freifunk - Ebene hinzugefügt (mit QR-Code-Bild)
+
+* Inhalte leicht überarbeitet
+    - Routerbeschreibung an aktuelle Empfehlung angepasst
+    - Du statt du
+    - sprachliche Kleinigkeiten, auch ans Layout angepasst
+
+
 25.7.
 * Internet-Grundversorguung mit Bindestrich
 * unsichtbare Layer eingefügt für Schriftzüge anderer Communities (zum lagern)
